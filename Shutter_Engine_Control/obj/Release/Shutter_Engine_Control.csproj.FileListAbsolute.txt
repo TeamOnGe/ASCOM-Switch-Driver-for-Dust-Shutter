@@ -1,0 +1,9 @@
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\bin\Release\ASCOM.Shutter.Switch.dll.config
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\bin\Release\ASCOM.Shutter.Switch.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\bin\Release\ASCOM.Shutter.Switch.pdb
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\ASCOM.Shutter.Properties.Resources.resources
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\ASCOM.Shutter.SetupDialogForm.resources
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\Shutter_Engine_Control.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\Shutter_Engine_Control.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\ASCOM.Shutter.Switch.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Shutter_Engine_Control\obj\Release\ASCOM.Shutter.Switch.pdb

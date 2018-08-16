@@ -1,0 +1,1 @@
+This is an ASCOM Switch Driver for shutter engine control.

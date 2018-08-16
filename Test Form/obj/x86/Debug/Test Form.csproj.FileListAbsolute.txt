@@ -1,0 +1,19 @@
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Shutter.Test.exe.config
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Shutter.Test.exe
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Shutter.Test.pdb
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.DeviceInterfaces.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.DriverAccess.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Utilities.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Exceptions.dll
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.DeviceInterfaces.xml
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.DriverAccess.xml
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Utilities.xml
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\bin\Debug\ASCOM.Exceptions.xml
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\Test Form.csprojResolveAssemblyReference.cache
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\ASCOM.Shutter.Form1.resources
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\ASCOM.Shutter.Properties.Resources.resources
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\Test Form.csproj.GenerateResource.cache
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\Test Form.csproj.CoreCompileInputs.cache
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\Test Form.csproj.CopyComplete
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\ASCOM.Shutter.Test.exe
+C:\Users\dsi\source\repos\Shutter_Engine_Control\Test Form\obj\x86\Debug\ASCOM.Shutter.Test.pdb
