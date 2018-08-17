@@ -92,6 +92,8 @@ namespace ASCOM.Shutter
         /// </summary>
         private bool connectedState;
 
+        private bool[] _switches = new bool[2];
+
         /// <summary>
         /// Private variable to hold an ASCOM Utilities object
         /// </summary>
@@ -440,8 +442,9 @@ namespace ASCOM.Shutter
         public bool GetSwitch(short id)
         {
             Validate("GetSwitch", id);
-            tl.LogMessage("GetSwitch", string.Format("GetSwitch({0}) - not implemented", id));
-            throw new MethodNotImplementedException("GetSwitch");
+            tl.LogMessage("GetSwitch", string.Format("GetSwitch({0}) - State: {1}", id, _switches[id]));
+
+            return _switches[id];
         }
 
         /// <summary>
@@ -470,14 +473,19 @@ namespace ASCOM.Shutter
                 if (id == 0)
                 {
                     //Commands to Open/Close the shutter
+
                     OpenShutter();
-                    SetSwitch(1, false);
+                    _switches[1] = false;
+                    _switches[0] = true;
+                    
+                    
                 }
 
                 else if (id == 1)
                 {
                     CloseShutter();
-                    SetSwitch(0, false);
+                    _switches[0] = false;
+                    _switches[1] = true;
                 }
             }
             
